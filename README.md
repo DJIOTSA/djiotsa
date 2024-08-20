@@ -2,7 +2,7 @@
 ## I'm Djiotsa Djouake Christian Daryn (MHULO)
 
 - 🔭 I’m currently working on a Named Entity Recognition for Under Resourced Languages: case study of the Yemba Language.
-- 🌱 I’m currently learning Nodejs and React
+- 🌱 I’m currently learning Nodejs and React.
 - 👯 I’m looking to collaborate on Web application(python, Django, Django REST, HTML, CSS, SASS, JS) and Machine learning projects.
 - 🤔 I’m looking for help with NLP and data science...
 - 💬 Ask me about Software Engineering, Software Design Thinking, SEO, UI/UX, Frontend, Backend, Software as a Product
